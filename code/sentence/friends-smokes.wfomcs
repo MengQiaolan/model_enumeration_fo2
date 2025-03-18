@@ -1,0 +1,6 @@
+\forall X: (~fr(X,X))
+& \forall X: (\forall Y: (fr(X,Y) -> fr(Y,X)))
+& \forall X: (\forall Y: (fr(X,Y) & sm(X) -> sm(Y))) 
+& \forall X: (\exists Y: (fr(X,Y)))
+
+V = 10
