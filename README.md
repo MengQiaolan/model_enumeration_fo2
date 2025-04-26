@@ -1,4 +1,4 @@
-# Experimental Report
+# Model Enumeration of Two-Variable Logic with Quadratic Delay Complexity
 
 
 
